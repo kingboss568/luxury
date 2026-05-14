@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you
+Disallow: /api/
+
+# 工具區歡迎索引
+Allow: /500tools/
+
+# 圖庫資產
+Allow: /assets/
+
+Sitemap: https://boss888.jushiung.workers.dev/sitemap.xml
+
+# Crawler-friendly: 允許 Google / Bing / 學術 bot
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /assets/
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
