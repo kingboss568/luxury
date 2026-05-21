@@ -9,7 +9,7 @@ Allow: /500tools/
 # 圖庫資產
 Allow: /assets/
 
-Sitemap: https://boss888.jushiung.workers.dev/sitemap.xml
+Sitemap: https://luxury.boss888.net/sitemap.xml
 
 # Crawler-friendly: 允許 Google / Bing / 學術 bot
 User-agent: Googlebot
